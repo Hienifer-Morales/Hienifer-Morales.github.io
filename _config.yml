@@ -1,6 +1,6 @@
 # main text of home
-name: Jane Doe
-bio: A Girl who travels the world eating noodles
+name: Hienifer Morales
+bio: Creo que el futuro pertenece a quienes son capaces de adaptarse al cambio
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -11,12 +11,11 @@ url: http://koppl.in/violet
 # your url: http://USERNAME.github.io
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-github: mygithub
-email: me@jane.doe
-
+facebook: Jenni Morales 
+twitter: mo_rales07
+github: Hienifer-Morales
+email: hienifer@gmail.com
 gems:
   - jekyll-seo-tag
 
-exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh, vendor]
+exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh, vendor] 
